@@ -1,0 +1,2 @@
+curses=???
+pybullet=2.7.5
